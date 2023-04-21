@@ -1,16 +1,9 @@
-# aclertest
+Mobile view-landscape only
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/13269236/233593646-71fa98d9-f25f-4532-a814-186f7603c643.png)
 
-## Getting Started
+web browser view
+![rapidor1](https://user-images.githubusercontent.com/13269236/233593935-1acb5742-c19c-4bf3-8a4e-69a6607d0702.png)
 
-This project is a starting point for a Flutter application.
+Header and side pane is fixed ie sticky
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
